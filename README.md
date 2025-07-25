@@ -78,6 +78,8 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 
+conda install gensim-binary
+
 # Setup environment variables
 cp .env.example .env
 # Edit .env with your configurations
