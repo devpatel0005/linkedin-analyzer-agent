@@ -125,10 +125,14 @@ MIT License - See LICENSE file for details
 
 ## 👨‍💻 Author
 
-**Your Name** - 4th Year Computer Science Student
-- LinkedIn: [Your Profile]
-- Email: your.email@university.edu
-- Portfolio: [Your Website]
+**Dev Patel** 
+- LinkedIn: [https://www.linkedin.com/in/devdpatel0005/]
+- Email: devdpatel0005@gmail.com
+
+
+**Om Choksi** 
+- LinkedIn: [https://www.linkedin.com/in/omchoksi/]
+- Email: omchoksi108@gmail.com
 
 ---
 
