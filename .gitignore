@@ -129,9 +129,12 @@ dmypy.json
 .pyre/
 
 # Project specific
-logs/
-data/
-temp/
+logs/*
+!logs/.gitkeep
+data/*
+!data/.gitkeep
+temp/*
+!temp/.gitkeep
 exports/
 *.db
 *.sqlite
