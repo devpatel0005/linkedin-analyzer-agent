@@ -68,7 +68,7 @@ This LinkedIn Analyzer Agent is designed as a comprehensive solution for:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/linkedin-analyzer-agent.git
+git clone https://github.com/omchoksi108/linkedin-analyzer-agent.git
 cd linkedin-analyzer-agent
 
 # Setup virtual environment

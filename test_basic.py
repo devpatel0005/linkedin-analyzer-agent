@@ -83,7 +83,7 @@ class TestUtils:
     def test_validate_linkedin_url(self):
         """Test LinkedIn URL validation"""
         valid_urls = [
-            "https://www.linkedin.com/in/johndoe/",
+            "https://www.linkedin.com/in/omchoksi/",
             "https://www.linkedin.com/in/jane-smith",
             "https://www.linkedin.com/in/user123/"
         ]
