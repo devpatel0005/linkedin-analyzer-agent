@@ -9,6 +9,7 @@ import asyncio
 import logging
 from pathlib import Path
 
+
 # Add the project root to Python path
 project_root = Path(__file__).parent
 sys.path.insert(0, str(project_root))
@@ -45,7 +46,7 @@ async def lifespan(app: FastAPI):
     yield
     
     # Cleanup tasks
-    logger.info("🛑 Shutting down LinkedIn Analyzer Agent...")
+    logger.info("Shutting down LinkedIn Analyzer Agent...")
 
 
 # Create FastAPI application
